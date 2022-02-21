@@ -1,18 +1,13 @@
 #include <stdio.h>
 
+
+
+int __attriubte__a->;
+
 int main(){
 
-    printf("Ingrese el primer numero");
+    printf("Ingrese el primer numero %d\n", a);
 
-    read->a;
     
-    printf("Ingrese su segundo numero");
-    read->b;
-
-    int sum (a+b);
-    read->c;
-    
-    printf("El resultado de su suma es" " " c );
-
     return 0;
 }

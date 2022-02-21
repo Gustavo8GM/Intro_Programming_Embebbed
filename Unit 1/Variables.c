@@ -27,9 +27,17 @@ int main() {
 
     printf ("imprimir valor, myarray = %d\n", myarray[7]);
 
-    printf ("imprimir valor, word = %c\n", word[6]);
+   
+    printf ("imprimir valor, word= %c\n", word[0]);
+    printf ("%c\n", word[1]);
+    printf ("%c\n", word[2]);
+    printf ("%c\n", word[3]);
+    printf ("%c\n", word[4]);
+    printf ("%c\n", word[5]);
+    printf ("%c\n", word[6]);
 
     printf ("imprimir valor, *aName = %s\n", aName);
+
 
     printf ("imprimir valor, myfloatarray = %f\n", myfloatarray[2]);
 
